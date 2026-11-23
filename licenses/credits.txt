@@ -1,0 +1,14 @@
+Root Rip - credits and licences
+
+Game, art, sound effects and models: made for this game.
+
+Music (both CC0, no credit required; credit given as a courtesy)
+- "Ukulele Forest" (beginning and loop) by StarNinjas - https://opengameart.org/content/ukulele-forest-beginning-loop-and-end
+- "Happy Clappy Loop" by OwlishMedia - https://opengameart.org/content/happy-clappy-loop
+
+3D models
+- Trees, bush, rocks, fence, flowers and stump are based on Kenney's Nature Kit (CC0) - https://kenney.nl/assets/nature-kit
+
+Fonts (SIL Open Font License 1.1; full texts in OFL-fredoka.txt and OFL-nunito.txt)
+- Fredoka, Copyright 2016 The Fredoka Project Authors
+- Nunito, Copyright 2014 The Nunito Project Authors
