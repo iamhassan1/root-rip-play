@@ -236,6 +236,39 @@
     "chute",
     "chute_flap"
    ]
+  },
+  "vfx": {
+   "pxPerMetre": null,
+   "parts": [
+    "chunk_clay_1",
+    "chunk_clay_2",
+    "chunk_clay_3",
+    "chunk_clay_4",
+    "chunk_clay_5",
+    "chunk_clay_6",
+    "chunk_dirt_1",
+    "chunk_dirt_2",
+    "chunk_dirt_3",
+    "chunk_dirt_4",
+    "chunk_dirt_5",
+    "chunk_dirt_6",
+    "chunk_gravel_1",
+    "chunk_gravel_2",
+    "chunk_gravel_3",
+    "chunk_gravel_4",
+    "chunk_gravel_5",
+    "chunk_gravel_6",
+    "crumbs",
+    "drop",
+    "dust_1",
+    "dust_2",
+    "dust_3",
+    "glow",
+    "leaf",
+    "sparkle",
+    "star",
+    "steam"
+   ]
   }
  },
  "textures": {

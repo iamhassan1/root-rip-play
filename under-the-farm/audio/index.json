@@ -60,5 +60,41 @@
  ],
  "jingle_chapter": [
   "jingle_chapter_1.mp3"
+ ],
+ "perfect": [
+  "perfect_1.mp3",
+  "perfect_2.mp3"
+ ],
+ "stinger_curious": [
+  "stinger_curious_1.mp3"
+ ],
+ "stinger_alert": [
+  "stinger_alert_1.mp3"
+ ],
+ "stinger_furious": [
+  "stinger_furious_1.mp3"
+ ],
+ "thwip": [
+  "thwip_1.mp3",
+  "thwip_2.mp3"
+ ],
+ "whoosh": [
+  "whoosh_1.mp3",
+  "whoosh_2.mp3"
+ ],
+ "plop": [
+  "plop_1.mp3",
+  "plop_2.mp3",
+  "plop_3.mp3"
+ ],
+ "pip_step": [
+  "pip_step_1.mp3",
+  "pip_step_2.mp3",
+  "pip_step_3.mp3"
+ ],
+ "clod": [
+  "clod_1.mp3",
+  "clod_2.mp3",
+  "clod_3.mp3"
  ]
 }
