@@ -1,1 +1,0 @@
-import{G as e,H as t}from"./index-DJ95zk1m.js";var n=class n extends t{static create(t){let{dynamic:r,textureOptions:i,...a}=t;return new n({...i,source:new e(a),dynamic:r??!1})}resize(e,t,n){return this.source.resize(e,t,n),this}};export{n as t};
