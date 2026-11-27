@@ -1,0 +1,1 @@
+import{Wt as e,qt as t}from"./index-CyXA0AEj.js";var n=class n extends e{static create(e){let{dynamic:r,textureOptions:i,...a}=e;return new n({...i,source:new t(a),dynamic:r??!1})}resize(e,t,n){return this.source.resize(e,t,n),this}};export{n as t};
