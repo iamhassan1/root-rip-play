@@ -1,0 +1,62 @@
+{
+ "frames": {
+  "chute": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 223,
+    "h": 310
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 223,
+    "h": 310
+   },
+   "sourceSize": {
+    "w": 223,
+    "h": 310
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "chute_flap": {
+   "frame": {
+    "x": 229,
+    "y": 2,
+    "w": 240,
+    "h": 64
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 240,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 240,
+    "h": 64
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  }
+ },
+ "meta": {
+  "app": "tools/art (T-006)",
+  "image": "f1-chute.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 512,
+   "h": 512
+  },
+  "scale": 1
+ }
+}
