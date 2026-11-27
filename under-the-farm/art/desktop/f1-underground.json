@@ -1,0 +1,518 @@
+{
+ "frames": {
+  "pebble_1": {
+   "frame": {
+    "x": 1333,
+    "y": 296,
+    "w": 136,
+    "h": 102
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 136,
+    "h": 102
+   },
+   "sourceSize": {
+    "w": 136,
+    "h": 102
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "pebble_2": {
+   "frame": {
+    "x": 96,
+    "y": 405,
+    "w": 90,
+    "h": 75
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 90,
+    "h": 75
+   },
+   "sourceSize": {
+    "w": 90,
+    "h": 75
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "pebble_3": {
+   "frame": {
+    "x": 1473,
+    "y": 296,
+    "w": 120,
+    "h": 99
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 120,
+    "h": 99
+   },
+   "sourceSize": {
+    "w": 120,
+    "h": 99
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "pebble_4": {
+   "frame": {
+    "x": 2,
+    "y": 405,
+    "w": 90,
+    "h": 76
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 90,
+    "h": 76
+   },
+   "sourceSize": {
+    "w": 90,
+    "h": 76
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "pebble_5": {
+   "frame": {
+    "x": 1473,
+    "y": 2,
+    "w": 154,
+    "h": 112
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 154,
+    "h": 112
+   },
+   "sourceSize": {
+    "w": 154,
+    "h": 112
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "pebble_6": {
+   "frame": {
+    "x": 1695,
+    "y": 296,
+    "w": 105,
+    "h": 90
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 90
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 90
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "pebble_7": {
+   "frame": {
+    "x": 1874,
+    "y": 296,
+    "w": 127,
+    "h": 80
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 127,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 127,
+    "h": 80
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "pebble_8": {
+   "frame": {
+    "x": 601,
+    "y": 405,
+    "w": 93,
+    "h": 73
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 93,
+    "h": 73
+   },
+   "sourceSize": {
+    "w": 93,
+    "h": 73
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "rootlets": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 315,
+    "h": 177
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 315,
+    "h": 177
+   },
+   "sourceSize": {
+    "w": 315,
+    "h": 177
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "secret_boot": {
+   "frame": {
+    "x": 321,
+    "y": 2,
+    "w": 206,
+    "h": 167
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 206,
+    "h": 167
+   },
+   "sourceSize": {
+    "w": 206,
+    "h": 167
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "secret_bottle": {
+   "frame": {
+    "x": 768,
+    "y": 2,
+    "w": 209,
+    "h": 154
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 209,
+    "h": 154
+   },
+   "sourceSize": {
+    "w": 209,
+    "h": 154
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "secret_can": {
+   "frame": {
+    "x": 981,
+    "y": 2,
+    "w": 159,
+    "h": 143
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 143
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 143
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "secret_marble_a": {
+   "frame": {
+    "x": 1597,
+    "y": 296,
+    "w": 94,
+    "h": 97
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 94,
+    "h": 97
+   },
+   "sourceSize": {
+    "w": 94,
+    "h": 97
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "secret_marble_b": {
+   "frame": {
+    "x": 698,
+    "y": 405,
+    "w": 66,
+    "h": 66
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 66,
+    "h": 66
+   },
+   "sourceSize": {
+    "w": 66,
+    "h": 66
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "secret_marble_c": {
+   "frame": {
+    "x": 1804,
+    "y": 296,
+    "w": 66,
+    "h": 87
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 66,
+    "h": 87
+   },
+   "sourceSize": {
+    "w": 66,
+    "h": 87
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "secret_seed_tin": {
+   "frame": {
+    "x": 1144,
+    "y": 2,
+    "w": 168,
+    "h": 123
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 168,
+    "h": 123
+   },
+   "sourceSize": {
+    "w": 168,
+    "h": 123
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "secret_toy_tractor": {
+   "frame": {
+    "x": 531,
+    "y": 2,
+    "w": 233,
+    "h": 166
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 233,
+    "h": 166
+   },
+   "sourceSize": {
+    "w": 233,
+    "h": 166
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "strip_pebbles_clay": {
+   "frame": {
+    "x": 2,
+    "y": 296,
+    "w": 1327,
+    "h": 105
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1327,
+    "h": 105
+   },
+   "sourceSize": {
+    "w": 1327,
+    "h": 105
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "strip_topsoil_pebbles": {
+   "frame": {
+    "x": 2,
+    "y": 183,
+    "w": 1327,
+    "h": 109
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1327,
+    "h": 109
+   },
+   "sourceSize": {
+    "w": 1327,
+    "h": 109
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "worm_curled": {
+   "frame": {
+    "x": 1316,
+    "y": 2,
+    "w": 153,
+    "h": 123
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 153,
+    "h": 123
+   },
+   "sourceSize": {
+    "w": 153,
+    "h": 123
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "worm_long": {
+   "frame": {
+    "x": 190,
+    "y": 405,
+    "w": 407,
+    "h": 74
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 407,
+    "h": 74
+   },
+   "sourceSize": {
+    "w": 407,
+    "h": 74
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  }
+ },
+ "meta": {
+  "app": "tools/art (T-006)",
+  "image": "f1-underground.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 2048,
+   "h": 512
+  },
+  "scale": 1
+ }
+}

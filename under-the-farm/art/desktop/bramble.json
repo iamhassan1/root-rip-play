@@ -1,0 +1,326 @@
+{
+ "frames": {
+  "arm_upper": {
+   "frame": {
+    "x": 1783,
+    "y": 2,
+    "w": 107,
+    "h": 156
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 107,
+    "h": 156
+   },
+   "sourceSize": {
+    "w": 107,
+    "h": 156
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "forearm_fist": {
+   "frame": {
+    "x": 1207,
+    "y": 2,
+    "w": 133,
+    "h": 166
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 133,
+    "h": 166
+   },
+   "sourceSize": {
+    "w": 133,
+    "h": 166
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "forearm_open": {
+   "frame": {
+    "x": 580,
+    "y": 2,
+    "w": 136,
+    "h": 200
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 136,
+    "h": 200
+   },
+   "sourceSize": {
+    "w": 136,
+    "h": 200
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "hat": {
+   "frame": {
+    "x": 2,
+    "y": 637,
+    "w": 210,
+    "h": 148
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 210,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 210,
+    "h": 148
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "head": {
+   "frame": {
+    "x": 1044,
+    "y": 2,
+    "w": 159,
+    "h": 196
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 196
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 196
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "head_curious": {
+   "frame": {
+    "x": 720,
+    "y": 2,
+    "w": 158,
+    "h": 197
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 158,
+    "h": 197
+   },
+   "sourceSize": {
+    "w": 158,
+    "h": 197
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "head_furious": {
+   "frame": {
+    "x": 882,
+    "y": 2,
+    "w": 158,
+    "h": 197
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 158,
+    "h": 197
+   },
+   "sourceSize": {
+    "w": 158,
+    "h": 197
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "hips": {
+   "frame": {
+    "x": 1648,
+    "y": 2,
+    "w": 131,
+    "h": 157
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 157
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 157
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "hose": {
+   "frame": {
+    "x": 1344,
+    "y": 2,
+    "w": 300,
+    "h": 158
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 300,
+    "h": 158
+   },
+   "sourceSize": {
+    "w": 300,
+    "h": 158
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "pitchfork": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 117,
+    "h": 631
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 117,
+    "h": 631
+   },
+   "sourceSize": {
+    "w": 117,
+    "h": 631
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "shin_boot": {
+   "frame": {
+    "x": 123,
+    "y": 2,
+    "w": 170,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 170,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 170,
+    "h": 222
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "thigh": {
+   "frame": {
+    "x": 297,
+    "y": 2,
+    "w": 140,
+    "h": 217
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 140,
+    "h": 217
+   },
+   "sourceSize": {
+    "w": 140,
+    "h": 217
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "torso": {
+   "frame": {
+    "x": 441,
+    "y": 2,
+    "w": 135,
+    "h": 206
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 206
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 206
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  }
+ },
+ "meta": {
+  "app": "tools/art (T-006)",
+  "image": "bramble.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 2048,
+   "h": 1024
+  },
+  "scale": 1
+ }
+}

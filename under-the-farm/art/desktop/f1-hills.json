@@ -1,0 +1,62 @@
+{
+ "frames": {
+  "hills_far": {
+   "frame": {
+    "x": 2,
+    "y": 237,
+    "w": 2006,
+    "h": 197
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 2006,
+    "h": 197
+   },
+   "sourceSize": {
+    "w": 2006,
+    "h": 197
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "hills_near": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 2006,
+    "h": 231
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 2006,
+    "h": 231
+   },
+   "sourceSize": {
+    "w": 2006,
+    "h": 231
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  }
+ },
+ "meta": {
+  "app": "tools/art (T-006)",
+  "image": "f1-hills.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 2048,
+   "h": 512
+  },
+  "scale": 1
+ }
+}

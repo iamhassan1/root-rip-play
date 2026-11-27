@@ -1,0 +1,326 @@
+{
+ "frames": {
+  "crate_a": {
+   "frame": {
+    "x": 1191,
+    "y": 2,
+    "w": 103,
+    "h": 109
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 103,
+    "h": 109
+   },
+   "sourceSize": {
+    "w": 103,
+    "h": 109
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "crate_b": {
+   "frame": {
+    "x": 1050,
+    "y": 2,
+    "w": 137,
+    "h": 118
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 137,
+    "h": 118
+   },
+   "sourceSize": {
+    "w": 137,
+    "h": 118
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "door": {
+   "frame": {
+    "x": 383,
+    "y": 2,
+    "w": 229,
+    "h": 147
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 229,
+    "h": 147
+   },
+   "sourceSize": {
+    "w": 229,
+    "h": 147
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "lantern_a": {
+   "frame": {
+    "x": 225,
+    "y": 2,
+    "w": 77,
+    "h": 154
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 77,
+    "h": 154
+   },
+   "sourceSize": {
+    "w": 77,
+    "h": 154
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "lantern_b": {
+   "frame": {
+    "x": 306,
+    "y": 2,
+    "w": 73,
+    "h": 152
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 73,
+    "h": 152
+   },
+   "sourceSize": {
+    "w": 73,
+    "h": 152
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "pile_1": {
+   "frame": {
+    "x": 2,
+    "y": 176,
+    "w": 84,
+    "h": 41
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 84,
+    "h": 41
+   },
+   "sourceSize": {
+    "w": 84,
+    "h": 41
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "pile_2": {
+   "frame": {
+    "x": 1862,
+    "y": 2,
+    "w": 101,
+    "h": 57
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 101,
+    "h": 57
+   },
+   "sourceSize": {
+    "w": 101,
+    "h": 57
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "pile_3": {
+   "frame": {
+    "x": 1730,
+    "y": 2,
+    "w": 128,
+    "h": 76
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 76
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 76
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "pile_4": {
+   "frame": {
+    "x": 1298,
+    "y": 2,
+    "w": 176,
+    "h": 101
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 176,
+    "h": 101
+   },
+   "sourceSize": {
+    "w": 176,
+    "h": 101
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "pile_5": {
+   "frame": {
+    "x": 616,
+    "y": 2,
+    "w": 230,
+    "h": 137
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 230,
+    "h": 137
+   },
+   "sourceSize": {
+    "w": 230,
+    "h": 137
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "rug": {
+   "frame": {
+    "x": 1478,
+    "y": 2,
+    "w": 248,
+    "h": 81
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 248,
+    "h": 81
+   },
+   "sourceSize": {
+    "w": 248,
+    "h": 81
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "shelf": {
+   "frame": {
+    "x": 850,
+    "y": 2,
+    "w": 196,
+    "h": 127
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 127
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 127
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "workbench": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 219,
+    "h": 170
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 170
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  }
+ },
+ "meta": {
+  "app": "tools/art (T-006)",
+  "image": "f1-den.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 2048,
+   "h": 256
+  },
+  "scale": 1
+ }
+}

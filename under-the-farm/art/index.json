@@ -1,0 +1,259 @@
+{
+ "density": {
+  "desktop": 256,
+  "mobile": 128
+ },
+ "atlases": {
+  "pip": {
+   "pxPerMetre": {
+    "desktop": 512,
+    "mobile": 256
+   },
+   "parts": [
+    "arm_upper_a",
+    "arm_upper_b",
+    "hand_fist",
+    "hand_open",
+    "head",
+    "head_cheer",
+    "head_dizzy",
+    "head_happy",
+    "head_shout",
+    "head_sneaky",
+    "head_strain",
+    "head_surprised",
+    "lamp",
+    "leg_a",
+    "leg_b",
+    "sack",
+    "scarf_end",
+    "scarf_wrap",
+    "tail",
+    "torso"
+   ]
+  },
+  "ui": {
+   "pxPerMetre": null,
+   "parts": [
+    "btn_gear",
+    "btn_yank",
+    "button",
+    "button_pressed",
+    "card",
+    "face_alert",
+    "face_calm",
+    "face_curious",
+    "face_furious",
+    "icon_beam",
+    "icon_carrot",
+    "icon_chute",
+    "icon_claws",
+    "icon_decoy",
+    "icon_drill",
+    "icon_plug",
+    "icon_quick_yank",
+    "icon_quiet_paws",
+    "icon_rails",
+    "icon_sack",
+    "icon_whiskers",
+    "meter_fill_green",
+    "meter_fill_orange",
+    "meter_fill_red",
+    "meter_fill_yellow",
+    "meter_frame",
+    "pill",
+    "slot",
+    "slot_selected"
+   ]
+  },
+  "f1-underground": {
+   "pxPerMetre": {
+    "desktop": 256,
+    "mobile": 128
+   },
+   "parts": [
+    "pebble_1",
+    "pebble_2",
+    "pebble_3",
+    "pebble_4",
+    "pebble_5",
+    "pebble_6",
+    "pebble_7",
+    "pebble_8",
+    "rootlets",
+    "secret_boot",
+    "secret_bottle",
+    "secret_can",
+    "secret_marble_a",
+    "secret_marble_b",
+    "secret_marble_c",
+    "secret_seed_tin",
+    "secret_toy_tractor",
+    "strip_pebbles_clay",
+    "strip_topsoil_pebbles",
+    "worm_curled",
+    "worm_long"
+   ]
+  },
+  "bramble": {
+   "pxPerMetre": {
+    "desktop": 512,
+    "mobile": 256
+   },
+   "parts": [
+    "arm_upper",
+    "forearm_fist",
+    "forearm_open",
+    "hat",
+    "head",
+    "head_curious",
+    "head_furious",
+    "hips",
+    "hose",
+    "pitchfork",
+    "shin_boot",
+    "thigh",
+    "torso"
+   ]
+  },
+  "rex": {
+   "pxPerMetre": {
+    "desktop": 512,
+    "mobile": 256
+   },
+   "parts": [
+    "back_lower",
+    "back_upper",
+    "ear_hang",
+    "ear_up",
+    "front_lower",
+    "front_upper",
+    "head_bark",
+    "head_happy",
+    "head_sniff",
+    "tail",
+    "torso"
+   ]
+  },
+  "clod": {
+   "pxPerMetre": {
+    "desktop": 512,
+    "mobile": 256
+   },
+   "parts": [
+    "arm_open",
+    "arm_spoon",
+    "head",
+    "head_stern",
+    "head_talk",
+    "leg",
+    "spoon",
+    "torso"
+   ]
+  },
+  "f1-surface": {
+   "pxPerMetre": null,
+   "parts": [
+    "barn",
+    "bench",
+    "bush",
+    "cloud_1",
+    "cloud_2",
+    "cloud_3",
+    "cloud_4",
+    "cloud_5",
+    "cloud_6",
+    "dog_bowl",
+    "farmhouse",
+    "fence_strip",
+    "grass_strip",
+    "hay",
+    "silo",
+    "tree",
+    "tuft_a",
+    "tuft_b",
+    "tuft_c",
+    "tuft_d",
+    "tuft_e",
+    "tuft_f",
+    "tuft_g",
+    "tuft_h",
+    "wheelbarrow",
+    "windmill"
+   ]
+  },
+  "f1-hills": {
+   "pxPerMetre": null,
+   "parts": [
+    "hills_far",
+    "hills_near"
+   ]
+  },
+  "f1-carrots": {
+   "pxPerMetre": null,
+   "parts": [
+    "anchor_root",
+    "anchor_snapped",
+    "carrot_golden",
+    "carrot_large",
+    "carrot_medium",
+    "carrot_small",
+    "giant",
+    "giant_crown",
+    "hole",
+    "leaves_golden",
+    "leaves_large",
+    "leaves_medium",
+    "leaves_small",
+    "root_strand",
+    "top_golden",
+    "top_large",
+    "top_medium",
+    "top_small"
+   ]
+  },
+  "f1-den": {
+   "pxPerMetre": null,
+   "parts": [
+    "crate_a",
+    "crate_b",
+    "door",
+    "lantern_a",
+    "lantern_b",
+    "pile_1",
+    "pile_2",
+    "pile_3",
+    "pile_4",
+    "pile_5",
+    "rug",
+    "shelf",
+    "workbench"
+   ]
+  }
+ },
+ "textures": {
+  "soil-topsoil": {
+   "metres": 2
+  },
+  "soil-backwall": {
+   "metres": 2
+  },
+  "soil-clay": {
+   "metres": 2
+  },
+  "soil-gravel": {
+   "metres": 2
+  },
+  "soil-rock": {
+   "metres": 2
+  },
+  "soil-deep": {
+   "metres": 2
+  }
+ },
+ "images": {
+  "f1-sky": {
+   "aspect": 1.7777777777777777
+  }
+ }
+}

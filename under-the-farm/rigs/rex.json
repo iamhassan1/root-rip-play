@@ -1,0 +1,301 @@
+{
+ "atlas": "rex",
+ "bones": [
+  {
+   "name": "root",
+   "x": 0,
+   "y": 0
+  },
+  {
+   "name": "body",
+   "parent": "root",
+   "x": 0,
+   "y": -0.36
+  },
+  {
+   "name": "head",
+   "parent": "body",
+   "x": 0.25,
+   "y": -0.1
+  },
+  {
+   "name": "ear",
+   "parent": "head",
+   "x": -0.06,
+   "y": -0.1
+  },
+  {
+   "name": "tail",
+   "parent": "body",
+   "x": -0.28,
+   "y": -0.08
+  },
+  {
+   "name": "fl_up",
+   "parent": "body",
+   "x": 0.17,
+   "y": 0.06
+  },
+  {
+   "name": "fl_lo",
+   "parent": "fl_up",
+   "x": 0.0,
+   "y": 0.16
+  },
+  {
+   "name": "fr_up",
+   "parent": "body",
+   "x": 0.12,
+   "y": 0.05
+  },
+  {
+   "name": "fr_lo",
+   "parent": "fr_up",
+   "x": 0.0,
+   "y": 0.16
+  },
+  {
+   "name": "bl_up",
+   "parent": "body",
+   "x": -0.2,
+   "y": 0.04
+  },
+  {
+   "name": "bl_lo",
+   "parent": "bl_up",
+   "x": 0.02,
+   "y": 0.15
+  },
+  {
+   "name": "br_up",
+   "parent": "body",
+   "x": -0.24,
+   "y": 0.03
+  },
+  {
+   "name": "br_lo",
+   "parent": "br_up",
+   "x": 0.02,
+   "y": 0.15
+  }
+ ],
+ "slots": [
+  {
+   "name": "fr_up",
+   "bone": "fr_up",
+   "part": "front_upper",
+   "anchor": [
+    0.5,
+    0.15
+   ],
+   "tint": 12893364
+  },
+  {
+   "name": "fr_lo",
+   "bone": "fr_lo",
+   "part": "front_lower",
+   "anchor": [
+    0.5,
+    0.1
+   ],
+   "tint": 12893364
+  },
+  {
+   "name": "br_up",
+   "bone": "br_up",
+   "part": "back_upper",
+   "anchor": [
+    0.5,
+    0.15
+   ],
+   "tint": 12893364
+  },
+  {
+   "name": "br_lo",
+   "bone": "br_lo",
+   "part": "back_lower",
+   "anchor": [
+    0.5,
+    0.1
+   ],
+   "tint": 12893364
+  },
+  {
+   "name": "tail",
+   "bone": "tail",
+   "part": "tail",
+   "anchor": [
+    0.75,
+    0.9
+   ]
+  },
+  {
+   "name": "body",
+   "bone": "body",
+   "part": "torso",
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "name": "fl_up",
+   "bone": "fl_up",
+   "part": "front_upper",
+   "anchor": [
+    0.5,
+    0.15
+   ]
+  },
+  {
+   "name": "fl_lo",
+   "bone": "fl_lo",
+   "part": "front_lower",
+   "anchor": [
+    0.5,
+    0.1
+   ]
+  },
+  {
+   "name": "bl_up",
+   "bone": "bl_up",
+   "part": "back_upper",
+   "anchor": [
+    0.5,
+    0.15
+   ]
+  },
+  {
+   "name": "bl_lo",
+   "bone": "bl_lo",
+   "part": "back_lower",
+   "anchor": [
+    0.5,
+    0.1
+   ]
+  },
+  {
+   "name": "head",
+   "bone": "head",
+   "part": "head_happy",
+   "anchor": [
+    0.3,
+    0.62
+   ]
+  },
+  {
+   "name": "ear",
+   "bone": "ear",
+   "part": "ear_hang",
+   "anchor": [
+    0.5,
+    0.12
+   ]
+  }
+ ],
+ "clips": {
+  "idle": {
+   "dur": 0.9,
+   "loop": true,
+   "bones": {
+    "tail": {
+     "rot": [
+      [
+       0,
+       -12
+      ],
+      [
+       0.225,
+       14,
+       "inOut"
+      ],
+      [
+       0.45,
+       -12,
+       "inOut"
+      ],
+      [
+       0.675,
+       14,
+       "inOut"
+      ],
+      [
+       0.9,
+       -12,
+       "inOut"
+      ]
+     ]
+    },
+    "head": {
+     "rot": [
+      [
+       0,
+       0
+      ],
+      [
+       0.45,
+       -3,
+       "inOut"
+      ],
+      [
+       0.9,
+       0,
+       "inOut"
+      ]
+     ]
+    }
+   }
+  },
+  "breath": {
+   "dur": 1.4,
+   "loop": true,
+   "bones": {
+    "body": {
+     "sy": [
+      [
+       0,
+       0
+      ],
+      [
+       0.7,
+       0.03,
+       "inOut"
+      ],
+      [
+       1.4,
+       0,
+       "inOut"
+      ]
+     ],
+     "sx": [
+      [
+       0,
+       0
+      ],
+      [
+       0.7,
+       -0.015,
+       "inOut"
+      ],
+      [
+       1.4,
+       0,
+       "inOut"
+      ]
+     ]
+    }
+   }
+  }
+ },
+ "springs": [
+  {
+   "bone": "ear",
+   "stiffness": 80,
+   "damping": 7,
+   "gainX": 6,
+   "gainY": 3,
+   "limit": 35,
+   "wobble": 2
+  }
+ ]
+}

@@ -1,0 +1,326 @@
+{
+ "frames": {
+  "crate_a": {
+   "frame": {
+    "x": 675,
+    "y": 345,
+    "w": 206,
+    "h": 218
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 206,
+    "h": 218
+   },
+   "sourceSize": {
+    "w": 206,
+    "h": 218
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "crate_b": {
+   "frame": {
+    "x": 398,
+    "y": 345,
+    "w": 273,
+    "h": 235
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 273,
+    "h": 235
+   },
+   "sourceSize": {
+    "w": 273,
+    "h": 235
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "door": {
+   "frame": {
+    "x": 751,
+    "y": 2,
+    "w": 458,
+    "h": 294
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 458,
+    "h": 294
+   },
+   "sourceSize": {
+    "w": 458,
+    "h": 294
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "lantern_a": {
+   "frame": {
+    "x": 444,
+    "y": 2,
+    "w": 153,
+    "h": 308
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 153,
+    "h": 308
+   },
+   "sourceSize": {
+    "w": 153,
+    "h": 308
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "lantern_b": {
+   "frame": {
+    "x": 601,
+    "y": 2,
+    "w": 146,
+    "h": 304
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 146,
+    "h": 304
+   },
+   "sourceSize": {
+    "w": 146,
+    "h": 304
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "pile_1": {
+   "frame": {
+    "x": 207,
+    "y": 602,
+    "w": 167,
+    "h": 82
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 82
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 82
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "pile_2": {
+   "frame": {
+    "x": 2,
+    "y": 602,
+    "w": 201,
+    "h": 113
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 201,
+    "h": 113
+   },
+   "sourceSize": {
+    "w": 201,
+    "h": 113
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "pile_3": {
+   "frame": {
+    "x": 1740,
+    "y": 345,
+    "w": 255,
+    "h": 151
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 255,
+    "h": 151
+   },
+   "sourceSize": {
+    "w": 255,
+    "h": 151
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "pile_4": {
+   "frame": {
+    "x": 885,
+    "y": 345,
+    "w": 352,
+    "h": 201
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 352,
+    "h": 201
+   },
+   "sourceSize": {
+    "w": 352,
+    "h": 201
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "pile_5": {
+   "frame": {
+    "x": 1213,
+    "y": 2,
+    "w": 460,
+    "h": 274
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 460,
+    "h": 274
+   },
+   "sourceSize": {
+    "w": 460,
+    "h": 274
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "rug": {
+   "frame": {
+    "x": 1241,
+    "y": 345,
+    "w": 495,
+    "h": 161
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 495,
+    "h": 161
+   },
+   "sourceSize": {
+    "w": 495,
+    "h": 161
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "shelf": {
+   "frame": {
+    "x": 2,
+    "y": 345,
+    "w": 392,
+    "h": 253
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 392,
+    "h": 253
+   },
+   "sourceSize": {
+    "w": 392,
+    "h": 253
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "workbench": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 438,
+    "h": 339
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 438,
+    "h": 339
+   },
+   "sourceSize": {
+    "w": 438,
+    "h": 339
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  }
+ },
+ "meta": {
+  "app": "tools/art (T-006)",
+  "image": "f1-den.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 2048,
+   "h": 1024
+  },
+  "scale": 1
+ }
+}

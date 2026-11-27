@@ -1,0 +1,64 @@
+{
+ "dig_soft": [
+  "dig_soft_1.mp3",
+  "dig_soft_2.mp3",
+  "dig_soft_3.mp3"
+ ],
+ "dig_stone": [
+  "dig_stone_1.mp3",
+  "dig_stone_2.mp3",
+  "dig_stone_3.mp3"
+ ],
+ "stomp": [
+  "stomp_1.mp3",
+  "stomp_2.mp3"
+ ],
+ "bonk": [
+  "bonk_1.mp3",
+  "bonk_2.mp3"
+ ],
+ "root_creak": [
+  "root_creak_1.mp3",
+  "root_creak_2.mp3",
+  "root_creak_3.mp3"
+ ],
+ "sack": [
+  "sack_1.mp3",
+  "sack_2.mp3",
+  "sack_3.mp3"
+ ],
+ "deliver": [
+  "deliver_1.mp3"
+ ],
+ "farmer_step": [
+  "farmer_step_1.mp3",
+  "farmer_step_2.mp3",
+  "farmer_step_3.mp3"
+ ],
+ "ui_click": [
+  "ui_click_1.mp3",
+  "ui_click_2.mp3"
+ ],
+ "ui_back": [
+  "ui_back_1.mp3"
+ ],
+ "ui_open": [
+  "ui_open_1.mp3"
+ ],
+ "ui_close": [
+  "ui_close_1.mp3"
+ ],
+ "buy": [
+  "buy_1.mp3"
+ ],
+ "pop": [
+  "pop_1.mp3",
+  "pop_2.mp3"
+ ],
+ "jingle_secret": [
+  "jingle_secret_1.mp3"
+ ],
+ "jingle_chapter": [
+  "jingle_chapter_1.mp3"
+ ]
+}

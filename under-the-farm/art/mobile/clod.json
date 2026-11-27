@@ -1,0 +1,206 @@
+{
+ "frames": {
+  "arm_open": {
+   "frame": {
+    "x": 609,
+    "y": 2,
+    "w": 86,
+    "h": 88
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 86,
+    "h": 88
+   },
+   "sourceSize": {
+    "w": 86,
+    "h": 88
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "arm_spoon": {
+   "frame": {
+    "x": 452,
+    "y": 2,
+    "w": 98,
+    "h": 101
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 98,
+    "h": 101
+   },
+   "sourceSize": {
+    "w": 98,
+    "h": 101
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "head": {
+   "frame": {
+    "x": 224,
+    "y": 2,
+    "w": 112,
+    "h": 107
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 107
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 107
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "head_stern": {
+   "frame": {
+    "x": 340,
+    "y": 2,
+    "w": 108,
+    "h": 107
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 108,
+    "h": 107
+   },
+   "sourceSize": {
+    "w": 108,
+    "h": 107
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "head_talk": {
+   "frame": {
+    "x": 110,
+    "y": 2,
+    "w": 110,
+    "h": 108
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 110,
+    "h": 108
+   },
+   "sourceSize": {
+    "w": 110,
+    "h": 108
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "leg": {
+   "frame": {
+    "x": 699,
+    "y": 2,
+    "w": 79,
+    "h": 74
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 79,
+    "h": 74
+   },
+   "sourceSize": {
+    "w": 79,
+    "h": 74
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "spoon": {
+   "frame": {
+    "x": 554,
+    "y": 2,
+    "w": 51,
+    "h": 101
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 51,
+    "h": 101
+   },
+   "sourceSize": {
+    "w": 51,
+    "h": 101
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "torso": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 104,
+    "h": 113
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 104,
+    "h": 113
+   },
+   "sourceSize": {
+    "w": 104,
+    "h": 113
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  }
+ },
+ "meta": {
+  "app": "tools/art (T-006)",
+  "image": "clod.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 1024,
+   "h": 128
+  },
+  "scale": 1
+ }
+}
