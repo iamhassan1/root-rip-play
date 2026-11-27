@@ -1,0 +1,9 @@
+Under the Farm - credits and licences
+
+Game, characters, art and code: made for this game.
+
+Sound effects: Kenney (CC0, no credit required; given as a courtesy) - https://kenney.nl
+
+Fonts (SIL Open Font License 1.1; full texts in OFL-fredoka.txt and OFL-nunito.txt)
+- Fredoka, Copyright 2016 The Fredoka Project Authors
+- Nunito, Copyright 2014 The Nunito Project Authors
