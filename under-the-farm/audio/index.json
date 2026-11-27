@@ -96,5 +96,11 @@
   "clod_1.mp3",
   "clod_2.mp3",
   "clod_3.mp3"
+ ],
+ "music_calm": [
+  "music_calm.mp3"
+ ],
+ "music_tension": [
+  "music_tension.mp3"
  ]
 }
